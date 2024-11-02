@@ -13,3 +13,4 @@ int main()
     }
     cout<<"\n"<<"The Sum of "<<n<<" Natural Numbers = "<<sum<<"\nAnd The Product of "<<n<<" Natural Numbers = "<<product;
     //here we can directly print the sum of n natural numbers using formula: n*(n+1)/2;
+}
