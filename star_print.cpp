@@ -10,6 +10,7 @@ int main()
         for(int j=1;j<=i;j++)
         {
             cout<<"*"<<"";
+            //for printing column number print j instead of star and for printing row number print i instead of star.
         }
         cout<<endl;
     }
